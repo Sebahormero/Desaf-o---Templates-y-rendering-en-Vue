@@ -16,7 +16,7 @@
         </div>
         <div>
           <label>Color</label>
-          <input type="text" v-model="color" />
+          <input type="color" v-model="color" />
         </div>
         <div>
           <label>Mostrar figura</label>
