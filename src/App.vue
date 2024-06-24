@@ -59,7 +59,7 @@ export default {
       additionalStyles: '',
     };
   },
-};S
+}
 </script>
 
 <style>
